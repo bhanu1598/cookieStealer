@@ -24,3 +24,5 @@ Get them cookies.
 ## Disclaimer
 
 I'm not responsible for your actions. The code provided here is for educational purpose only. If you find a web site with code injection vulnerability, inform them.
+
+
